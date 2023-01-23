@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pipeapple:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-23T10:16:25.797001+07:00"
+    description: A Helm chart for Kubernetes
+    digest: c32c67aabba8806dbbebcfbc21aecacbf80cfe78772a54e6b48bb0d8368cda8a
+    name: pipeapple
+    type: application
+    urls:
+    - pipeapple-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-23T10:16:25.795786+07:00"
