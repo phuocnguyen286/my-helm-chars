@@ -1,0 +1,11 @@
+{
+  "appName": "hello-world-2",
+  "userGivenName": "hello-world-2",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/hello-world-2/overlays/testing",
+  "srcRepoURL": "https://github.com/phuoctech/my-helm-chars.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
